@@ -20,4 +20,4 @@ assets/          - Folder containing images, icons, etc.
 README.md        - Project documentation
 ```
 ## Project Link
-You can view the project live here: [Zedex Landing Page](https://zedex-landpage.netlify.app/)
+You can view the project live here: [Zedex Landing Page](https://boomikazedex.netlify.app/)
